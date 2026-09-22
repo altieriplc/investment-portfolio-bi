@@ -1,0 +1,61 @@
+account_id,client_id,advisor_id,account_type,base_currency,open_date,status
+1,19,8,Managed,USD,08/04/2024,Active
+2,36,7,Brokerage,USD,27/04/2019,Active
+3,33,5,Brokerage,USD,"August 16, 2022",Active
+4,5,5,BROKERAGE,  EUR ,"June 26, 2022",Active
+5,29,8,Retirement,EUR,"June 18, 2021",Closed
+6,15,7,Retirement,BRL,24/06/2019,Active
+7,32,1,Retirement,BRL,19/09/2020,Active
+8,5,8,Brokerage,EUR,"June 20, 2021",Closed
+9,21,8,Managed,USD,01-20-2023,Active
+10,7,8,BROKERAGE,USD,10/12/2020,Active
+11,9999,3,Brokerage,BRL,28/10/2019,Active
+12,30,5,Managed,BRL,26/01/2024,Active
+13,28,5,Brokerage,  BRL ,07/05/2022,Active
+14,2,7,Brokerage,EUR,01-19-2021,Active
+15,15,6,Managed,EUR,07/11/2020,Active
+16,20,8,RETIREMENT,EUR,12/10/2019,Active
+17,34,5,Retirement,BRL,27/05/2020,Active
+18,10,4,Managed,BRL,,Active
+19,30,6,Managed,BRL,22/12/2024,Active
+20,40,6,Retirement,USD,21/04/2023,Active
+21,3,777,managed,USD,04/08/2021,Closed
+22,38,3,Retirement,BRL,04/11/2022,Active
+23,7,6,Brokerage,USD,"November 12, 2023",Active
+24,14,1,Brokerage,USD,08/06/2019,Active
+25,22,3,Managed,usd,,Active
+26,23,4,Brokerage,USD,06/01/2023,Active
+27,33,2,  Managed ,EUR,"September 08, 2022",Closed
+28,26,7,Brokerage,EUR,16/02/2024,Active
+29,18,6,Managed,BRL,10-17-2022,Active
+30,28,8,Managed,BRL,11/07/2020,Active
+31,31,2,MANAGED,brl,"February 03, 2019",Active
+32,27,6,Retirement,EUR,28/07/2024,Closed
+33,15,2,Managed,USD,12/09/2021,Active
+34,39,5,Retirement,EUR,09/03/2019,Closed
+35,5,3,Brokerage,USD,01/11/2024,Active
+36,21,2,BROKERAGE,EUR,06/03/2019,Active
+37,14,2,Managed,BRL,,Closed
+38,39,1,Retirement,usd,10/04/2019,Active
+39,25,4,Brokerage,EUR,09-27-2023,Closed
+40,5,6,Retirement,BRL,"July 19, 2023",Closed
+41,24,2,Managed,BRL,02/08/2022,Active
+42,5,2,Managed,BRL,07/09/2023,Active
+43,12,3,Managed,EUR,06/02/2024,Active
+44,21,3,Retirement,BRL,16/02/2022,Closed
+45,29,1,Brokerage,BRL,27/06/2019,Active
+46,29,4,  Brokerage ,EUR,10-16-2021,Active
+47,33,3,Managed,BRL,23/04/2019,Active
+48,25,7,Managed,USD,20/11/2021,Closed
+49,19,5,Managed,USD,20/11/2024,Closed
+50,9,2,Brokerage,EUR,09-13-2021,Active
+51,28,6,Retirement,USD,10/06/2019,Active
+52,10,2,Managed,EUR,02-17-2021,Closed
+53,10,3,Brokerage,EUR,25/12/2020,Active
+54,29,5,Retirement,EUR,08/08/2024,Active
+55,25,7,retirement,EUR,26/04/2020,Active
+56,19,2,retirement,EUR,05-15-2020,Active
+57,27,1,Brokerage,USD,12/09/2022,Active
+58,10,3,Brokerage,BRL,27/05/2019,Active
+59,2,5,Retirement,EUR,,Closed
+60,40,8,Brokerage,BRL,27/02/2019,Active

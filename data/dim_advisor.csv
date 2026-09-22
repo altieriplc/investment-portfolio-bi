@@ -1,0 +1,10 @@
+advisor_id,advisor_name,branch,hire_date,status
+1,Hugo Silva,Lisbon,05/04/2018,Active
+2,James Souza,Sao Paulo,08/04/2016,Active
+3,Mary Almeida,London,25/01/2019,Active
+4,Sofia Pereira,New York,03/02/2020,Active
+5,Rafaela Souza,London,07/03/2016,Active
+6,Marina Oliveira,Sao Paulo,"May 03, 2018",Inactive
+7,SOFIA JONES,Lisbon,"June 12, 2017",Active
+8,Karina Davis,New York,13/08/2017,Active
+9,Mary Almeida,London,25/01/2019,Active

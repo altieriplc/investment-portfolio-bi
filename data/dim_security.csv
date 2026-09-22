@@ -1,0 +1,32 @@
+security_id,ticker,security_name,asset_class,sector,currency,country,isin
+1,PETR4,Petrobras PN,Equity,Energy,BRL,Brazil,BRPETRACNPR6
+2,VALE3,Vale ON,EQUITY,Materials,BRL,Brazil,BRVALEACNOR0
+3,ITUB4,Itau Unibanco PN,Equity,,BRL,Brazil,BRITUBACNPR1
+4,BBAS3,Banco do Brasil ON,Equity,Financials,BRL,Brazil,BRBBASACNOR3
+5,AAPL,Apple Inc,Equity,Technology,USD,United States,US0378331005
+6,MSFT,Microsoft Corp,Equity,Technology,USD,United States,US5949181045
+7,JPM,JPMorgan Chase,Equity,Financials,USD,United States,US46625H1005
+8,XOM,Exxon Mobil,equity,Energy,USD,United States,US30231G1022
+9,JNJ,Johnson & Johnson,Equity,Healthcare,USD,United States,US4781601046
+10,PG,Procter & Gamble,Equity,Consumer,USD,United States,US7427181091
+11,SPY,SPDR S&P 500 ETF,etf,Consumer,USD,United States,US78462F1030
+12,IVV,iShares Core S&P 500,ETF,Consumer,USD,United States,US4642872000
+13,BOVA11,iShares Ibovespa ETF,ETF,Financials,BRL,Brazil,BRBOVACTF001
+14,VWCE,Vanguard FTSE All-World,ETF,Consumer,EUR,Germany,IE00BK5BQT80
+15,TSLA,Tesla Inc,Equity,,USD,United States,US88160R1014
+16,NVDA,NVIDIA Corp,Equity,Technology,USD,United States,US67066G1040
+17,KO,Coca-Cola Co,equity,Consumer,USD,United States,US1912161007
+18,WMT,Walmart Inc,Equity,Consumer,USD,United States,US9311421039
+19,DIS,Walt Disney Co,Equity,Consumer,USD,United States,US2546871060
+20,SAP,SAP SE,Equity,Technology,EUR,Germany,DE0007164600
+21,UST10Y,US Treasury 10Y,Fixed Income,Government,USD,United States,US912810TM09
+22,LTN2027,Tesouro Prefixado 2027,Fixed Income,Government,BRL,Brazil,BRSTNCLTN7O0
+23,BUND10,German Bund 10Y,FIXED INCOME,Government,EUR,Germany,DE0001102580
+24,CDBXP,CDB XP 2026,Fixed Income,Financials,BRL,Brazil,
+25,PIMIX,PIMCO Income Fund,Fund,Financials,USD,United States,US72201F4900
+26,VBMFX,Vanguard Total Bond,Fund,Financials,USD,United States,US9219377937
+27,HGLG11,CSHG Logistica FII,Fund,Real Estate,BRL,Brazil,BRHGLGCTF002
+28,CASHUSD,USD Cash Balance,Cash,Cash,USD,United States,
+29,CASHBRL,BRL Cash Balance,Cash,Cash,BRL,Brazil,
+30,CASHEUR,EUR Cash Balance,Cash,Cash,EUR,Germany,
+31,AAPL,Apple Inc,equity,Technology,USD,United States,US0378331005

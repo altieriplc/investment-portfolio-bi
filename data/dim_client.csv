@@ -1,0 +1,42 @@
+client_id,client_name,client_type,document,country,state,email,risk_profile,onboarding_date,status
+1,Vitor Souza,Individual,423.510.374-18,Portugal,RS,vitor1@example.com,Moderate,26/01/2024,Active
+2,Pedro Davis,institutional,697.508.470-38,Brazil,RJ,pedro2@example.com,Aggressive,14/10/2023,Inactive
+3,Robert Miller,Institutional,838.217.798-78,Portugal,TX,,Aggressive,22/01/2022,Active
+4,Linda Santos,  Institutional ,723.303.256-57,Germany,SP,linda4@example.com,Moderate,11-17-2024,Active
+5,Pedro Souza,  Individual ,849.597.935-18,United Kingdom,London,pedro5@example.com,Conservative,"February 03, 2022",Active
+6,Ursula Williams,  Institutional ,223.353.330-18,United States,,ursula6@example.com,Conservative,15/09/2021,Active
+7,Sofia Garcia,Individual,684.690.584-41,Brazil,TX,sofia7@example.com,Conservative,24/03/2022,Active
+8,Daniel Williams  ,institutional,296.294.649-67,Brazil,Lisbon,daniel8@example.com,Aggressive,02/08/2024,Active
+9,Pedro Costa,Institutional,985.510.160-31,United Kingdom,NY,pedro9@example.com,Aggressive,07/08/2021,Inactive
+10,Joao Rodrigues  ,  Institutional ,853.655.162-50,Germany,,joao10@example.com,Conservative,19/01/2019,Active
+11,John Santos,  Individual ,734.183.529-94,United States,CA,john11@example.com,Moderate,02/10/2022,Active
+12,Ana Jones,Individual,618.371.235-54,United States,Lisbon,ana12@example.com,Aggressive,07/09/2018,Active
+13,Gabriela Pereira,Institutional,666.259.378-46,Portugal,London,gabriela13@example.com,Conservative,24/02/2018,Active
+14,Carla Silva,INSTITUTIONAL,,Brazil,MG,carla14@example.com,Conservative,21/03/2024,Active
+15,Ursula Johnson,Individual,355.782.205-55,Germany,MG,ursula15@example.com,Conservative,22/04/2020,Active
+16,Mary Almeida,Institutional,491.993.139-70,Portugal,RS,mary16@example.com,Moderate,"December 04, 2019",Active
+17,Xavier Miller  ,Institutional,128.218.998-43,Brazil,Berlin,xavier17@example.com,Aggressive,"September 11, 2023",Active
+18,Zeca Martins,Individual,546.101.632-78,United States,CA,zeca18@example.com,Aggressive,23/01/2020,Active
+19,Ursula Miller  ,INSTITUTIONAL,512.813.402-80,United States,Berlin,ursula19@example.com,Moderate,11/07/2023,Inactive
+20,Vitor Jones,INSTITUTIONAL,623.584.912-31,Germany,,vitor20@example.com,moderate,07/11/2021,Active
+21,Carla Almeida,INSTITUTIONAL,524.744.689-34,United States,SP,carla21@example.com,Moderate,15/02/2022,Inactive
+22,Daniel Davis,  Individual ,236.920.575-95,United Kingdom,Berlin,daniel22@example.com,Aggressive,15/02/2024,Active
+23,Jennifer Jones,institutional,752.383.884-76,Portugal,RS,jennifer23@example.com,Conservative,27/04/2024,Inactive
+24,Joao Rodrigues,INDIVIDUAL,655.577.525-17,Germany,SP,joao24@example.com,Conservative,"July 11, 2021",Active
+25,Zeca Brown,Individual,546.597.129-59,United States,Lisbon,zeca25@example.com,Moderate,09/04/2021,Active
+26,Felipe Brown,INDIVIDUAL,151.366.488-51,United Kingdom,NY,felipe26@example.com,  Conservative ,08/06/2024,Active
+27,Xavier Almeida,Individual,872.131.353-35,United Kingdom,RJ,xavier27@example.com,Moderate,02/11/2024,Active
+28,Karina Gomes,individual,689.793.484-60,United States,RJ,karina28@example.com,Conservative,01/10/2022,Active
+29,Xavier Davis,Institutional,618.763.449-11,Portugal,Lisbon,xavier29@example.com,Aggressive,03/06/2023,Inactive
+30,Robert Brown,  Institutional ,188.385.561-41,Portugal,SP,robert30@example.com,Moderate,04-27-2020,Active
+31,Sofia Carvalho,Institutional,295.187.347-62,United Kingdom,Lisbon,,aggressive,17/01/2022,Active
+32,Jennifer Davis,INSTITUTIONAL,438.460.819-68,United States,,jennifer32@example.com,Conservative,18/12/2021,Inactive
+33,Sofia Martins  ,  Institutional ,332.469.283-48,Brazil,London,sofia33@example.com,Moderate,10/04/2018,Active
+34,Tiago Garcia  ,institutional,152.358.982-71,Germany,SP,tiago34@example.com,Conservative,"June 06, 2021",Active
+35,Mary Carvalho,INDIVIDUAL,561.553.404-85,Germany,RJ,mary35@example.com,aggressive,13/09/2024,Active
+36,Karina Silva,INSTITUTIONAL,581.398.133-39,Brazil,RS,karina36@example.com,Aggressive,12-20-2021,Active
+37,James Santos  ,INDIVIDUAL,946.245.173-17,Germany,NY,james37@example.com,Moderate,"March 09, 2023",Inactive
+38,Patricia Oliveira,Individual,718.356.126-21,Germany,SP,patricia38@example.com,Conservative,11/12/2021,Inactive
+39,Sofia Costa,institutional,581.456.518-52,United Kingdom,Lisbon,sofia39@example.com,Aggressive,03/08/2023,Active
+40,Vitor Ferreira,  Institutional ,,Germany,CA,vitor40@example.com,Conservative,28/07/2018,Active
+41,Ursula Williams,  Institutional ,223.353.330-18,United States,,ursula6@example.com,Conservative,15/09/2021,Active

@@ -1,0 +1,34 @@
+table,issue_type,detail
+dim_currency,null,EUR com currency_name nulo
+dim_advisor,duplicate,assessor id 3 repetido como id 9
+dim_advisor,null/case,branch nulo e nomes com capitalizacao/espacos
+dim_client,duplicate,cliente id 6 repetido como id 41
+dim_client,null,document/state/email com nulos
+dim_client,case/space,"client_type, risk_profile e nomes com caixa/espacos inconsistentes"
+dim_client,date,onboarding_date em formatos mistos
+dim_account,orphan_fk,account_id 11 com client_id=9999 (cliente inexistente)
+dim_account,orphan_fk,account_id 21 com advisor_id=777 (assessor inexistente)
+dim_account,case,account_type e base_currency com caixa inconsistente
+dim_security,duplicate,ticker AAPL repetido (security_id 5 e 31)
+dim_security,null,sector e isin com valores nulos
+dim_security,case,asset_class com caixa inconsistente (equity/EQUITY/ Equity )
+fact_fx_rate,null/zero,algumas taxas nulas ou zero indevidas
+fact_fx_rate,date,rate_date majoritariamente ISO com alguns formatos mistos
+fact_price,text_in_numeric,close_price com 'N/A'/'-' em coluna numerica
+fact_price,negative,alguns close_price negativos indevidos
+fact_price,null,close_price nulos
+fact_price,duplicate,"15 pares (security_id, price_date) duplicados"
+fact_price,date,price_date em formatos mistos
+fact_transaction,negative,quantity/price negativos indevidos
+fact_transaction,text_in_numeric,"price com texto ('N/A','unknown','-')"
+fact_transaction,null,net_amount nulo em algumas linhas
+fact_transaction,orphan_fk,account_id inexistente (9001/9002/8888)
+fact_transaction,orphan_fk,security_id=5000 inexistente
+fact_transaction,duplicate,"20 transacoes duplicadas (novo id, mesmo conteudo)"
+fact_transaction,case,transaction_type com caixa inconsistente
+fact_transaction,date,transaction_date em formatos mistos
+fact_position,negative,quantity/market_value negativos indevidos
+fact_position,null,market_value nulo
+fact_position,orphan_fk,account_id=9999 inexistente
+fact_position,duplicate,15 snapshots duplicados
+fact_position,date,position_date em formatos mistos
