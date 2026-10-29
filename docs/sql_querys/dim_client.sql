@@ -111,7 +111,7 @@ GROUP BY dc.risk_profile
 --ONBOARDING DATE
 SELECT  COUNT(*)
 FROM dim_client dc 
-WHERE DATE(dc.onboarding_date ) IS NULL 
+WHERE DATE(dc.onboarding_date )  NULL 
 
 -----------------------------------------------------------------------------------
 --STATUS

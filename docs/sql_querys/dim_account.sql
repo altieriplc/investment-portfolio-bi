@@ -31,7 +31,8 @@ WHERE dc.client_id IS NULL
 SELECT da.advisor_id, 
 FROM dim_account da 
 WHERE advisor_id IS NULL
-OR TRIM(advisor_id ) = ''
+OR TRIM(advisor_id ) =
+''
 
 SELECT dacc.advisor_id, daa.advisor_id 
 FROM dim_account dacc

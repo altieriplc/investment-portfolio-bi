@@ -2,6 +2,9 @@
 
 SELECT dc.currency_code
 FROM dim_currency dc
+
+SELECT dc.currency_code
+FROM dim_currency dc
 WHERE currency_code IS NULL
 OR TRIM(currency_code ) = ''
 
